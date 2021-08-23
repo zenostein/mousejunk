@@ -1,8 +1,8 @@
 {
-  "title": "",
+  "title": "M5 to M1x100",
   "rules": [
     {
-      "description": "",
+      "description": "1xM5 to 100xM1",
       "manipulators": [
         {
           "type": "basic",
