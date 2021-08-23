@@ -1,0 +1,410 @@
+{
+  "title": "",
+  "rules": [
+    {
+      "description": "",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "pointing_button": "button5"
+          },
+          "to": [
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            },            
+            {
+              "repeat": false,
+              "pointing_button": "button1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
