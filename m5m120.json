@@ -1,0 +1,78 @@
+{
+  "title": "MouseButton5 to Clickx20 (don’t forget to enable your mouse under Devices)",
+  "rules": [
+    {
+      "description": "MouseButton5 to Clickx20",
+      "manipulators": [
+        {
+          "type": "basic",
+								"from": {
+                                    "pointing_button": "button5"
+                                		},
+                                "to": [
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    },                                                                                                                                                                                                                                                                                                                                    
+                                     {
+                                        "pointing_button": "button1"
+                                    },
+                                    {
+                                        "pointing_button": "button1"
+                                    }
+          ]
+        }
+      ]
+    }
+  ]
+}
