@@ -6,9 +6,9 @@
       "manipulators": [
         {
           "type": "basic",
-"from": {
+"from": 
                                     "pointing_button": "button5"
-                                },
+                                ,
                                 "to": [
                                     {
                                         "pointing_button": "button1"
